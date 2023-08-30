@@ -1,0 +1,7 @@
+# models
+ckpts
+ckpts/
+
+# dataset
+nuscenes_data
+nuscenes_data\
