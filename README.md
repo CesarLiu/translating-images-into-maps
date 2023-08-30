@@ -15,7 +15,6 @@ The following libraries are the minimal required for this repo:
 ```python
 pip install --no-cache-dir torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1 -f https://download.pytorch.org/whl/cu111/torch_stable.html
 
-pytorch
 opencv-python
 numpy
 pickle
@@ -54,7 +53,8 @@ python train.py
 ### Pretrained model
 Pretrained models and their configs required to load/train them can be downloaded from here:
 ````
-https://drive.google.com/drive/folders/13-WobzEg9MGcT-tceXE3kwgEv8Q-kUwU?usp=sharing
+https://drive.google.com/drive/folders/13-WobzEg9MGcT-tceXE3kwgEv8Q-kUwU?usp=sharing (old)
+https://drive.google.com/drive/folders/11zXPS8_o8Ql7QwnqmUGskwoRsBpBRxNp?usp=sharing (new)
 ````
 
 
